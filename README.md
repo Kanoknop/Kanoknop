@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend, Software Testing**
 
-- 👯 I’m looking to collaborate as a **Java Developer for a part-time job**
+- 👯 I’m looking to collaborate as a **Java Developer/ Manual Software Tester for a part-time job**
 
 - 📫 How to reach me **kanoknop.t@gmail.com**
 
